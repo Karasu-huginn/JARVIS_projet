@@ -8,7 +8,7 @@ from main import process_answer
 import threading
 import os
 import base64
-
+from dataclasses import dataclass
 
 
 """To test :
